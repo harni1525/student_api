@@ -1,0 +1,1 @@
+typeorm-model-generator -h localhost -d studentmanagement -p 3307 -u root -x admin@123 -e mysql
